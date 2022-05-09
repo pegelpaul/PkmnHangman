@@ -54,6 +54,13 @@ tryAgain = function() {
 }
 
 hangman = function () {
-    word = getValidWord();
+    let word = getValidWord();
+    let wordLetters =  Set(word);
+    let usedLetters = Set();
+    let lives = 7;
+
+    while (wordLetters.length > 0, lives > 0) {
+        
+    }
 
 }
