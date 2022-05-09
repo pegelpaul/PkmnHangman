@@ -1,0 +1,25 @@
+{
+  "name": "pkmnhangman",
+  "version": "1.0.0",
+  "description": "Hangman",
+  "main": "app.js",
+  "scripts": {
+    "test": "console.log(\"Hello World\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pegelpaul/PkmnHangman.git"
+  },
+  "author": "JT,HP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pegelpaul/PkmnHangman/issues"
+  },
+  "homepage": "https://github.com/pegelpaul/PkmnHangman#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "prettier": "2.6.2"
+  }
+}
