@@ -9,20 +9,16 @@
   </head>
   <body>
     <div class="wrapper">
-      <h1>Hangman</h1>
-       <h2>Vanilla JavaScript Hangman Game</h2>
-       <p>Use the alphabet below to guess the word, or click hint to get a clue. </p>
+      <h1>Pokémon Hangman</h1>
+       <h2 id="searchedMon">_ _ _ _ _ _ _ _</h2>
+       <p></p>
    </div>
-   <div class="wrapper">
-       <div id="buttons">
-       </div>  
-       <p id="catagoryName"></p>
-       <div id="hold">
-       </div>
-       <p id="mylives"></p>
-       <p id="clue">Clue -</p>  
+   <div class="wrapper">  
+       <p id="mylives">lives</p>
+       <p id="clue">Hint</p>  
         <canvas id="stickman">This Text will show if the Browser does NOT support HTML5 Canvas tag</canvas>
        <div class="container">
+         <input id="input" type="text">
          <button id="hint">Hint</button>
          <button id="reset">Play again</button>
        </div>
