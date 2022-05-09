@@ -60,7 +60,8 @@ hangman = function () {
     let lives = 7;
 
     while (wordLetters.length > 0, lives > 0) {
-        
+        document.getElementById("mylives").innerHTML = lives;
+        document.getElementById("input")
     }
 
 }
