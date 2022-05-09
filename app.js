@@ -32,4 +32,10 @@ window.onload = function I() {
   var mon; //selected Pokémon
   var guess;
   var guesses = []; //stored uesses
+  var lives;
+  var score;
+
+  var showLives = document.getElementById("mylives");
+  var getHint = document.getElementById("hint");
+  var showClue = document.getElementById("clue");
 };
