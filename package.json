@@ -1,0 +1,22 @@
+{
+  "name": "pkmnhangman",
+  "version": "1.0.0",
+  "description": "Hangman",
+  "main": "app.js",
+  "scripts": {
+    "test": "console.log(\"\"\u001b[DHelloWorld\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pegelpaul/PkmnHangman.git"
+  },
+  "keywords": [
+    "Hangman"
+  ],
+  "author": "JT,HP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pegelpaul/PkmnHangman/issues"
+  },
+  "homepage": "https://github.com/pegelpaul/PkmnHangman#readme"
+}
