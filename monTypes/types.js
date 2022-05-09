@@ -1,4 +1,4 @@
-const normal = [
+export const normal = [
   "Rattfratz",
   "Rattikarl",
   "Pummeluff",
@@ -56,7 +56,7 @@ const normal = [
   "Bidifass",
 ];
 
-const ground = [
+export const ground = [
   "Sandan",
   "Sandamer",
   "Digda",
@@ -80,7 +80,7 @@ const ground = [
   "Lepumentas",
 ];
 
-const dragon = [
+export const dragon = [
   "Dratini",
   "Dragonir",
   "Kindwurm",
@@ -96,7 +96,7 @@ const dragon = [
   "Latios",
 ];
 
-const ice = [
+export const ice = [
   "Schneppke",
   "Firnontor",
   "Regice",
@@ -114,7 +114,7 @@ const ice = [
   "Walraisa",
 ];
 
-const elektrik = [
+export const elektrik = [
   "Pikachu",
   "Raichu",
   "Voltobal",
@@ -143,7 +143,7 @@ const elektrik = [
   "Magnezone",
 ];
 
-const fairy = [
+export const fairy = [
   "Piepi",
   "Pixi",
   "Pii",
@@ -154,7 +154,7 @@ const fairy = [
   "Togekiss",
 ];
 
-const fire = [
+export const fire = [
   "Glumanda",
   "Glutexo",
   "Vulpix",
@@ -188,7 +188,7 @@ const fire = [
   "Heatran",
 ];
 
-const flying = [
+export const flying = [
   "Taubsi",
   "Tauboga",
   "Tauboss",
@@ -208,7 +208,7 @@ const flying = [
   "Plaudagei",
 ];
 
-const ghost = [
+export const ghost = [
   "Traunfugil",
   "Shuppet",
   "Banette",
@@ -225,7 +225,7 @@ const ghost = [
   "Kryppuk",
 ];
 
-const rock = [
+export const rock = [
   "Mogelbaum",
   "Nasgnet",
   "Regirock",
@@ -255,7 +255,7 @@ const rock = [
   "Kabutops",
 ];
 
-const poison = [
+export const poison = [
   "Rettan",
   "Arbok",
   "Nidoran",
@@ -281,7 +281,7 @@ const poison = [
   "Piondragi",
 ];
 
-const bug = [
+export const bug = [
   "Raupy",
   "Safcon",
   "Pinsir",
@@ -326,7 +326,7 @@ const bug = [
   "Gehweier",
 ];
 
-const fighting = [
+export const fighting = [
   "Menki",
   "Rasaff",
   "Machollo",
@@ -344,7 +344,7 @@ const fighting = [
   "Lucario",
 ];
 
-const grass = [
+export const grass = [
   "Tangela",
   "Endivie",
   "Lorblatt",
@@ -393,7 +393,7 @@ const grass = [
   "Noktuska",
 ];
 
-const psychic = [
+export const psychic = [
   "Abra",
   "Kadabra",
   "Simsala",
@@ -426,7 +426,7 @@ const psychic = [
   "Celebi",
 ];
 
-const steel = [
+export const steel = [
   "Registeel",
   "Stahlos",
   "Dialga",
@@ -443,7 +443,7 @@ const steel = [
   "Bronzong",
 ];
 
-dark = [
+export const dark = [
   "Nachtara",
   "Fiffyen",
   "Magnayen",
@@ -458,7 +458,7 @@ dark = [
   "Zobiris",
 ];
 
-const water = [
+export const water = [
   "Schiggy",
   "Schillok",
   "Turtok",
